@@ -1,0 +1,2 @@
+@font-face { font-family: "Source Code Pro"; src: url("../assets/fonts/SourceCodePro/SourceCodePro-Regular.woff2") format("woff2"); font-style: normal; font-weight: 400; font-display: swap; }
+:root { --font-mono: "Source Code Pro", ui-monospace, Consolas, monospace; }

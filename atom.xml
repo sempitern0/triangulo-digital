@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Triangulo Digital</title>
+<id>https://triangulodigital.online/</id>
+<link href="https://triangulodigital.online/atom.xml" rel="self"/>
+<link href="https://triangulodigital.online/"/>
+<updated>2026-10-29T18:43:13Z</updated>
+<entry><title>Zeta Code Showcase — Triangulo Digital</title><id>https://triangulodigital.online/posts/2026/zeta-code-showcase.html</id><link href="https://triangulodigital.online/posts/2026/zeta-code-showcase.html"/><summary>Multiple fenced code blocks to validate Pandoc syntax highlighting.</summary><updated>2026-10-29T00:00:00Z</updated>
+<author><name>sempitern0</name></author>
+</entry>
+<entry><title>Zeta Markdown Showcase — Triangulo Digital</title><id>https://triangulodigital.online/posts/2026/zeta-markdown-showcase.html</id><link href="https://triangulodigital.online/posts/2026/zeta-markdown-showcase.html"/><summary>Headings, lists, tables, links, quotes and inline formatting.</summary><updated>2026-10-29T00:00:00Z</updated>
+<author><name>sempitern0</name></author>
+</entry>
+</feed>

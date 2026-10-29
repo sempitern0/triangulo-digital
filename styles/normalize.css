@@ -1,0 +1,24 @@
+/* Minimal cross-browser normalization used by Zeta output. */
+html { line-height: 1.15; -webkit-text-size-adjust: 100%; }
+body { margin: 0; }
+main { display: block; }
+hr { box-sizing: content-box; height: 0; overflow: visible; }
+pre, code, kbd, samp { font-family: monospace, monospace; }
+a { background-color: transparent; }
+b, strong { font-weight: bolder; }
+img { border-style: none; }
+button, input, optgroup, select, textarea {
+  font: inherit;
+  margin: 0;
+}
+button, input { overflow: visible; }
+button, select { text-transform: none; }
+textarea { overflow: auto; }
+[hidden] { display: none; }
+
+/* Progressive fallbacks: keyboard focus and intrinsic media on older engines. */
+img, svg, video, canvas { max-width: 100%; height: auto; }
+a:focus, button:focus, input:focus, select:focus, textarea:focus { outline: 2px solid currentColor; outline-offset: 3px; }
+@supports selector(:focus-visible) {
+  a:focus:not(:focus-visible), button:focus:not(:focus-visible), input:focus:not(:focus-visible), select:focus:not(:focus-visible), textarea:focus:not(:focus-visible) { outline: none; }
+}

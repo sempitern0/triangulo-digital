@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://triangulodigital.online/</loc></url>
+<url><loc>https://triangulodigital.online/posts.html</loc></url>
+<url><loc>https://triangulodigital.online/posts/2026/zeta-markdown-showcase.html</loc></url>
+<url><loc>https://triangulodigital.online/posts/2026/zeta-code-showcase.html</loc></url>  <url><loc>https://triangulodigital.online/tags/</loc></url>
+  <url><loc>https://triangulodigital.online/tags/code/</loc></url>
+  <url><loc>https://triangulodigital.online/tags/demo/</loc></url>
+  <url><loc>https://triangulodigital.online/tags/markdown/</loc></url>
+  <url><loc>https://triangulodigital.online/tags/pandoc/</loc></url>
+  <url><loc>https://triangulodigital.online/tags/zeta/</loc></url>
+</urlset>
